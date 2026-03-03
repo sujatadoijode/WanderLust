@@ -121,3 +121,9 @@ body {
     padding-left: 0;
     padding-right: 0;
 }
+
+/*map*/
+#map {
+    width: 800px;
+    height: 60vh;
+}
