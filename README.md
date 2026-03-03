@@ -41,7 +41,8 @@ The site will be available at http://localhost:8080
 - `routes/` — route handlers
 - `models/` — Mongoose models
 - `views/` — EJS templates
-- `controllers/`
+- `controllers/`-- controller functions for handling business logic
+- `public/` — static assets (CSS, JS, images)
 
 ## Contributing
 
