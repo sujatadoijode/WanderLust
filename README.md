@@ -1,12 +1,20 @@
 # WanderLust
 
-A small Express.js project for listing places and reviews.
+A web application built with HTML, CSS, JavaScript, Node.js and Express.js.
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/sujatadoijode/WanderLust.git
 
 ## Features
 
 - Listings CRUD
 - User authentication
 - Reviews for listings
+- MCV(models, controllers, views)
+- MAP API (For Navigation)
 
 ## Prerequisites
 
@@ -26,13 +34,14 @@ npm install
 ```bash
 npm start
 ```
-
+The site will be available at http://localhost:8080
 ## Project files
 
 - `app.js` — application entry
 - `routes/` — route handlers
 - `models/` — Mongoose models
 - `views/` — EJS templates
+- `controllers/`
 
 ## Contributing
 
